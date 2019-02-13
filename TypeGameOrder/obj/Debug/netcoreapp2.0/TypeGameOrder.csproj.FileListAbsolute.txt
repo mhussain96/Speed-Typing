@@ -1,0 +1,11 @@
+C:\Users\Tech-W154\source\repos\TypeGameOrder\TypeGameOrder\bin\Debug\netcoreapp2.0\TypeGameOrder.deps.json
+C:\Users\Tech-W154\source\repos\TypeGameOrder\TypeGameOrder\bin\Debug\netcoreapp2.0\TypeGameOrder.runtimeconfig.json
+C:\Users\Tech-W154\source\repos\TypeGameOrder\TypeGameOrder\bin\Debug\netcoreapp2.0\TypeGameOrder.runtimeconfig.dev.json
+C:\Users\Tech-W154\source\repos\TypeGameOrder\TypeGameOrder\bin\Debug\netcoreapp2.0\TypeGameOrder.dll
+C:\Users\Tech-W154\source\repos\TypeGameOrder\TypeGameOrder\bin\Debug\netcoreapp2.0\TypeGameOrder.pdb
+C:\Users\Tech-W154\source\repos\TypeGameOrder\TypeGameOrder\obj\Debug\netcoreapp2.0\TypeGameOrder.csprojAssemblyReference.cache
+C:\Users\Tech-W154\source\repos\TypeGameOrder\TypeGameOrder\obj\Debug\netcoreapp2.0\TypeGameOrder.csproj.CoreCompileInputs.cache
+C:\Users\Tech-W154\source\repos\TypeGameOrder\TypeGameOrder\obj\Debug\netcoreapp2.0\TypeGameOrder.AssemblyInfoInputs.cache
+C:\Users\Tech-W154\source\repos\TypeGameOrder\TypeGameOrder\obj\Debug\netcoreapp2.0\TypeGameOrder.AssemblyInfo.cs
+C:\Users\Tech-W154\source\repos\TypeGameOrder\TypeGameOrder\obj\Debug\netcoreapp2.0\TypeGameOrder.dll
+C:\Users\Tech-W154\source\repos\TypeGameOrder\TypeGameOrder\obj\Debug\netcoreapp2.0\TypeGameOrder.pdb
